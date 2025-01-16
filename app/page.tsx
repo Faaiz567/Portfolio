@@ -16,10 +16,10 @@ export default function Home() {
             </h1>
             <p className="text-2xl md:text-3xl">
               And I'm a{" "}
-              <span className="text-[#00E5FF]">Full-Stack Developer</span>
+              <span className="text-[#00E5FF]">Fruntend Developer</span>
             </p>
             <p className="text-gray-400 max-w-xl">
-              A passionate full-stack developer specializing in modern web
+              A passionate fruntend developer specializing in modern web
               technologies like Next.js, TypeScript, React, Tailwind CSS, and
               HTML. I create sleek, high-performing applications with a focus on
               innovation and user experience.
