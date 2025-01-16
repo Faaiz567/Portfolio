@@ -9,18 +9,18 @@ const projects = [
   {
     title: 'Plant Doctor and Identifier',
     description: 'Plant Doctor is an intuitive plant identification tool that allows users to upload or take a photo of a plant for instant identification and detailed information. It also detects plant diseases from images, offering insights and solutions for plant care.',
-    link: 'https://plant-doctor-identifier.vercel.app/',
+    link: 'https://ai-powered-garden.vercel.app/',
   },
   {
     title: 'Internet Speed Tester',
     description: "Internet Speed Tester is a reliable tool that accurately measures your internet's upload, download, and latency speeds. Built with Next.js and Tailwind CSS, it provides a fast and responsive user experience for checking your network performance",
     link: 'https://internet-speed-tester-two.vercel.app/',
   },
-  // {
-  //   title: 'Project 2',
-  //   description: 'Description of Project 2',
-  //   link: 'https://project2.vercel.app',
-  // },
+   {
+     title: 'Plant Ecomerce Website Test',
+     description: 'A tranquil online destination offering a curated selection of plants and flowers, featuring an immersive garden-themed design that welcomes visitors into a natural sanctuary.',
+     link: 'https://plants-website-silk.vercel.app/',
+   },
   // {
   //   title: 'Project 2',
   //   description: 'Description of Project 2',
