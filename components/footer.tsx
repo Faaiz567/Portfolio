@@ -27,7 +27,7 @@ export default function Footer() {
               <code className="text-sm text-gray-300">
                 {`const developer = {
   name: 'Faaiz Ahmed',
-  role: 'Full-Stack Developer',
+  role: 'Fruntend Developer',
   loves: ['Next.js', 'TypeScript', 'Tailwind',]
 };`}
               </code>
